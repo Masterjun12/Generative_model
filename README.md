@@ -47,8 +47,8 @@ class abReLU(nn.Module):
 ```
 
 **Visual:**
-![vae1](png\vae1.png)
-![vae2](png\vae2.png)
+![vae1](https://github.com/Masterjun12/Generative_model/blob/3695da09fac65eed1b0a90ee7071a1b02f01bed6/png/vae1.png)
+![vae2](https://github.com/Masterjun12/Generative_model/blob/3695da09fac65eed1b0a90ee7071a1b02f01bed6/png/vae2.png)
 
 ---
 
@@ -60,5 +60,5 @@ This project focuses on studying Denoising Diffusion Probabilistic Models (DDPM)
 **Data:** CIFAR-10
 
 **Generated Results:**
-![ddpm1](png\ddpm1.png)
+![ddpm1](https://github.com/Masterjun12/Generative_model/blob/3695da09fac65eed1b0a90ee7071a1b02f01bed6/png/ddpm1.png)
 ```
