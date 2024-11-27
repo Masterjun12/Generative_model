@@ -22,7 +22,7 @@ def elastic_deformation(image, alpha, sigma):
 ```
 
 **Elastic Deformation MNist image:**
-![gan1](png\gan1.png)
+![gan1](https://github.com/Masterjun12/Generative_model/blob/3695da09fac65eed1b0a90ee7071a1b02f01bed6/png/gan1.png)
 
 ---
 
